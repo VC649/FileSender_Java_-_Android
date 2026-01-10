@@ -2,4 +2,4 @@
 - I used chatgpt to partly build them
 - I have only tested it when the two devices are connected through hotspot
 - I have only tested for 2 devices
-- couldn't send the android project from pc to phone
+- couldn't send the android project from pc to phone (probably too large or too many folders and/or files involved - couldn't tell)
