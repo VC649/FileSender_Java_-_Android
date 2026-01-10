@@ -1,0 +1,5 @@
+- the two projects above, one for android and other for pc is for sending files from pc to android and vice versa
+- I used chatgpt to partly build them
+- I have only tested it when the two devices are connected through hotspot
+- I have only tested for 2 devices
+- couldn't send the android project from pc to phone
