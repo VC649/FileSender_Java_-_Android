@@ -1,4 +1,4 @@
-NOTE: MIGHT NOT WORK ON SOME DEVICES DUE TO UPDATES
+NOTE: IP FINDING AND CONNECTING MIGHT NOT WORK ON SOME DEVICES DUE TO UPDATES - YOU CAN ADD IP MANUALLY
 
 - the two projects above, one for android and other for pc is for sending files from pc to android and vice versa
 - I used chatgpt to partly build them
